@@ -1,0 +1,16 @@
+{
+  "student": "axiomxdev1-ui",
+  "generatedAt": "2026-10-27T02:14:24.3106322Z",
+  "verifiedBy": "techmonster-dev",
+  "tracks": [
+    {
+      "track": "ai-chip-ml-systems",
+      "trackTitle": "AI-Chip & ML-Systems Engineering (GPU Kernels to Compilers)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./ai-chip-ml-systems/verified-record.json"
+    }
+  ],
+  "manualEntries": []
+}

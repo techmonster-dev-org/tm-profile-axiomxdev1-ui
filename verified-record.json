@@ -1,8 +1,16 @@
 {
   "student": "axiomxdev1-ui",
-  "generatedAt": "2026-10-27T02:14:24.3106322Z",
+  "generatedAt": "2026-10-27T02:16:58.1835899Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
+    {
+      "track": "c-systems",
+      "trackTitle": "C & Systems Programming (Zero to the Kernel)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./c-systems/verified-record.json"
+    },
     {
       "track": "ai-chip-ml-systems",
       "trackTitle": "AI-Chip & ML-Systems Engineering (GPU Kernels to Compilers)",

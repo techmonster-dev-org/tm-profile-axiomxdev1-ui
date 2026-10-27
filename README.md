@@ -6,6 +6,7 @@
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
+| C & Systems Programming (Zero to the Kernel) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
 | AI-Chip & ML-Systems Engineering (GPU Kernels to Compilers) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./ai-chip-ml-systems/README.md) |
 
 ## Recent Verified Projects
